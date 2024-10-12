@@ -1,0 +1,16 @@
+# Ignore binaries and compiled Go files
+bin/
+*.exe
+*.out
+
+# Ignore Go module files
+go.sum
+
+# Ignore Verilog simulation files
+*.vcd
+*.log
+*.bak
+
+# Ignore temporary files
+*.log
+.DS_Store
